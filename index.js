@@ -1,2 +1,6 @@
 // @create-index
-console.log('Hello');
+console.log('Hellosworld');
+setTimeout(() => {
+    console.log('Hellosworld2');
+}, 3000);
+
